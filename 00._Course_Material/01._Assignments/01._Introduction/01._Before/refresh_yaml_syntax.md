@@ -5,11 +5,19 @@
 
 **Soft Deadline**: Before week 2
 
+---
 
 ## Great basic YAML syntax overview
 
 https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 
+---
+
+## Solve the Exercises
+
+[Hands-on YAML Exercises](https://anderslatif.github.io/yaml_tutorial/)
+
+---
 
 ## YAML video tutorial
 
