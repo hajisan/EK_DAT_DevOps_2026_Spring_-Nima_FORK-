@@ -8,5 +8,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
+},
+{
+    "name": "EmperiaPizza",
+    "gitLinks": ["https://github.com/EmperiaPizza/EmperiaSearch"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
 }
 ]
